@@ -22,4 +22,4 @@ jobs:
       - name: asdf_plugin_test
         uses: asdf-vm/actions/plugin-test@v1
         with:
-          command: btm --version
+          command: mcfly --version
